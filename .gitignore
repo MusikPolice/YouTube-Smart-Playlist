@@ -1,3 +1,7 @@
+# the youtube data api v3 oauth credentials file
+client_secrets.json
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
